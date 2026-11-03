@@ -10,30 +10,6 @@ Este repositorio sirve como **Organizacion para los Microservicios hechos** para
 
 La plataforma está diseñada para descentralizar los procesos médicos y administrativos de un centro de salud. Se divide en servicios independientes y desacoplados que gestionan el flujo completo del usuario: desde la administración de pacientes y su historial clínico hasta la emisión de previsiones y facturación.
 
-### 🏛️ Arquitectura del Sistema
-+----------------------+
-                    |  Cliente / Frontend  |
-                    +----------+-----------+
-                               |
-                               v
-                    +----------------------+
-                    |     API Gateway      | (Enrutamiento & Seguridad)
-                    +----------+-----------+
-                               |
-       +-----------------------+-----------------------+
-       |                       |                       |
-       v                       v                       v
-+--------------------+   +--------------------+   +--------------------+
-| Serv. Pacientes    |   | Serv. Historial    |   | Serv. Facturación  |
-+--------------------+   +--------------------+   +--------------------+
-|                       |                       |
-+-----------------------+-----------------------+
-|
-v
-+----------------------+
-|    Eureka Server     | (Service Discovery)
-+----------------------+
----
 
 ## 🧩 Index de Microservicios y Repositorios
 
