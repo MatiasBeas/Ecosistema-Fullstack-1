@@ -41,7 +41,7 @@ A continuación se detallan los repositorios independientes que componen el cód
 | :--- | :--- | :--- |
 | 🧪 **Exámenes** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Examenes.git) |
 | 📝 **Receta Médica** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Receta-Medica.git) |
-| 🏥 **Hospitalización** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Hospitalizacion) |
+| 🏥 **Hospitalización** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Hospitalizacion.git) |
 
 ---
 
