@@ -15,11 +15,11 @@ La plataforma está diseñada para descentralizar los procesos médicos y admini
 
 A continuación se detallan los repositorios independientes que componen el código fuente del sistema:
 
-| Servicio | Descripción | Tecnologías | Enlace al Código |
+| Servicio | Tecnologías | Enlace al Código |
 | :--- | :--- | :--- | :--- |
 | 🛡️ **API Gateway** | Java, Spring Cloud Gateway | [📂 Ver Repositorio](https://github.com/MatiasBeas/api-gateway.git) |
 | 🔍 **Eureka Server** | Java, Netflix Eureka | [📂 Ver Repositorio](https://github.com/MatiasBeas/eureka-server.git) |
-| 🐳 **Docker**  [📂 Ver Repositorio](https://github.com/MatiasBeas/Docker.git) |
+| 🐳 **Docker** | YML |  [📂 Ver Repositorio](https://github.com/MatiasBeas/Docker.git) |
 
 Ecosistema de Microservicios - Matías Beas
 | 👤 **Paciente** | Java, Spring Boot, JPA | [📂 Ver Repositorio](https://github.com/MatiasBeas/Paciente.git) |
