@@ -15,24 +15,40 @@ La plataforma está diseñada para descentralizar los procesos médicos y admini
 
 A continuación se detallan los repositorios independientes que componen el código fuente del sistema:
 
+
 | Servicio | Tecnologías | Enlace al Código |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | 🛡️ **API Gateway** | Java, Spring Cloud Gateway | [📂 Ver Repositorio](https://github.com/MatiasBeas/api-gateway.git) |
 | 🔍 **Eureka Server** | Java, Netflix Eureka | [📂 Ver Repositorio](https://github.com/MatiasBeas/eureka-server.git) |
-| 🐳 **Docker** | YML |  [📂 Ver Repositorio](https://github.com/MatiasBeas/Docker.git) |
+| 🐳 **Docker** | YML | [📂 Ver Repositorio](https://github.com/MatiasBeas/Docker.git) |
 
-Ecosistema de Microservicios - Matías Beas
+---
+
+### 👤 Ecosistema de Microservicios - Matías Beas
+
+| Servicio | Tecnologías | Enlace al Código |
+| :--- | :--- | :--- |
 | 👤 **Paciente** | Java, Spring Boot, JPA | [📂 Ver Repositorio](https://github.com/MatiasBeas/Paciente.git) |
 | 🩺 **Historial Médico** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Historial_Medico.git) |
 | 🏥 **Previsión** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Prevision.git) |
 | 🧾 **Facturación** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Factura.git) |
 
-Ecosistema de Microservicios - Josué Parra
+---
+
+### 👨‍💻 Ecosistema de Microservicios - Josué Parra
+
+| Servicio | Tecnologías | Enlace al Código |
+| :--- | :--- | :--- |
 | 🧪 **Exámenes** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Examenes.git) |
 | 📝 **Receta Médica** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Receta-Medica.git) |
 | 🏥 **Hospitalización** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Hospitalizacion) |
 
-Ecosistema de Microservicios - Valentina Castro
+---
+
+### 👩‍💻 Ecosistema de Microservicios - Valentina Castro
+
+| Servicio | Tecnologías | Enlace al Código |
+| :--- | :--- | :--- |
 | 📅 **Cita Médica** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Cita_Medica) |
 | 🛏️ **Habitación** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Habitacion) |
 | 👨‍⚕️ **Staff Médico** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Staff) |
