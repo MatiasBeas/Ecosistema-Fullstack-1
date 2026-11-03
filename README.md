@@ -73,9 +73,9 @@ A continuación se presentan los repositorios que conforman el proyecto.
 
 | Servicio | Tecnologías | Repositorio |
 |---|---|---|
-| 📅 Cita Médica | Java, Spring Boot | [Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/CitaMedica.git) |
-| 🛏️ Habitación | Java, Spring Boot | [Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Habitacion.git) |
-| 👨‍⚕️ Staff Médico | Java, Spring Boot | [Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Staff.git) |
+| 📅 Cita Médica | Java, Spring Boot | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/CitaMedica.git) |
+| 🛏️ Habitación | Java, Spring Boot | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Habitacion.git) |
+| 👨‍⚕️ Staff Médico | Java, Spring Boot | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Staff.git) |
 
 ---
 
