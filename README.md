@@ -49,9 +49,9 @@ A continuación se detallan los repositorios independientes que componen el cód
 
 | Servicio | Tecnologías | Enlace al Código |
 | :--- | :--- | :--- |
-| 📅 **Cita Médica** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Cita_Medica) |
-| 🛏️ **Habitación** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Habitacion) |
-| 👨‍⚕️ **Staff Médico** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Staff) |
+| 📅 **Cita Médica** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Staff.git) |
+| 🛏️ **Habitación** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Habitacion.git) |
+| 👨‍⚕️ **Staff Médico** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/CitaMedica.git) |
 
 ---
 
@@ -64,11 +64,3 @@ A continuación se detallan los repositorios independientes que componen el cód
 * **Herramientas de Construcción:** Maven / Gradle
 
 ---
-
-## 🚀 Cómo ejecutar la infraestructura completa localmente
-
-1. **Clonar los servicios principales:**
-   Asegúrate de clonar e iniciar primero los servicios base de infraestructura:
-   ```bash
-   git clone [https://github.com/MatiasBeas/eureka-server.git](https://github.com/MatiasBeas/eureka-server.git)
-   git clone [https://github.com/MatiasBeas/api-gateway.git](https://github.com/MatiasBeas/api-gateway.git)
