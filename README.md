@@ -108,5 +108,5 @@ A continuación se presentan los repositorios que conforman el proyecto.
   <br/>
   <sub>Microservices Architecture · Collaborative Software Development</sub>
   <br/><br/>
-  <a href="https://github.com/MatiasBeas-GestionMedica">MatiasBeas-GestionMedica</a>
+  <a href="https://github.com/MatiasBeas-Microservicios-FullStack">MatiasBeas-GestionMedica</a>
 </p>
