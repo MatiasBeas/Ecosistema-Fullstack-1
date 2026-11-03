@@ -2,7 +2,7 @@
 
 ¡Bienvenido al repositorio central y portal de arquitectura! 
 
-Este repositorio sirve como **Organizacion para los Microservicios hechos** para una plataforma integral de gestión clínica y administrativa desarrollada.
+Este repositorio sirve como **Organización para los Microservicios hechos** para una plataforma integral de gestión clínica y administrativa desarrollada. 10 Microservicios en total. Desarrollo en grupo. 
 
 ---
 
@@ -17,12 +17,25 @@ A continuación se detallan los repositorios independientes que componen el cód
 
 | Servicio | Descripción | Tecnologías | Enlace al Código |
 | :--- | :--- | :--- | :--- |
-| 🛡️ **API Gateway** | Punto de entrada único (Entry Point). Maneja el enrutamiento de peticiones, balanceo de carga y seguridad. | Java, Spring Cloud Gateway | [📂 Ver Repositorio](https://github.com/MatiasBeas/api-gateway.git) |
-| 🔍 **Eureka Server** | Servidor de descubrimiento (Service Discovery) para el registro dinámico de instancias en la red. | Java, Netflix Eureka | [📂 Ver Repositorio](https://github.com/MatiasBeas/eureka-server) |
-| 👤 **Paciente** | Servicio CRUD para el registro, consulta y actualización de datos demográficos de los pacientes. | Java, Spring Boot, JPA | [📂 Ver Repositorio](https://github.com/MatiasBeas/Paciente) |
-| 🩺 **Historial Médico** | Gestión centralizada de fichas médicas, diagnósticos, recetas y antecedentes del paciente. | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Historial_Medico) |
-| 🏥 **Previsión** | Validación y consulta de previsión de salud (Isapre / Fonasa) para atención médica. | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Prevision) |
-| 🧾 **Facturación** | Módulo encargado del procesamiento de pagos, cálculo de prestaciones y emisión de facturas. | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Factura) |
+| 🛡️ **API Gateway** | Java, Spring Cloud Gateway | [📂 Ver Repositorio](https://github.com/MatiasBeas/api-gateway.git) |
+| 🔍 **Eureka Server** | Java, Netflix Eureka | [📂 Ver Repositorio](https://github.com/MatiasBeas/eureka-server.git) |
+| 🐳 **Docker**  [📂 Ver Repositorio](https://github.com/MatiasBeas/Docker.git) |
+
+Ecosistema de Microservicios - Matías Beas
+| 👤 **Paciente** | Java, Spring Boot, JPA | [📂 Ver Repositorio](https://github.com/MatiasBeas/Paciente.git) |
+| 🩺 **Historial Médico** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Historial_Medico.git) |
+| 🏥 **Previsión** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Prevision.git) |
+| 🧾 **Facturación** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Factura.git) |
+
+Ecosistema de Microservicios - Josué Parra
+| 🧪 **Exámenes** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Examenes.git) |
+| 📝 **Receta Médica** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Receta-Medica.git) |
+| 🏥 **Hospitalización** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Hospitalizacion) |
+
+Ecosistema de Microservicios - Valentina Castro
+| 📅 **Cita Médica** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Cita_Medica) |
+| 🛏️ **Habitación** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Habitacion) |
+| 👨‍⚕️ **Staff Médico** | Java, Spring Boot | [📂 Ver Repositorio](https://github.com/MatiasBeas/Staff) |
 
 ---
 
