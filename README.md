@@ -42,8 +42,8 @@ A continuación se presentan los repositorios que conforman el proyecto.
 
 | Componente | Tecnologías | Repositorio |
 |---|---|---|
-| 🛡️ API Gateway | Java, Spring Cloud Gateway | 📂[[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/api-gateway.git) |
-| 🔍 Eureka Server | Java, Netflix Eureka | 📂[[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/eureka-server.git) |
+| 🛡️ API Gateway | Java, Spring Cloud Gateway | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/api-gateway.git) |
+| 🔍 Eureka Server | Java, Netflix Eureka | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/eureka-server.git) |
 | 🐳 Docker | Docker, YAML | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Docker.git) |
 
 ---
@@ -52,10 +52,10 @@ A continuación se presentan los repositorios que conforman el proyecto.
 
 | Servicio | Tecnologías | Repositorio |
 |---|---|---|
-| 👤 Paciente | Java, Spring Boot, JPA | 📂[[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Paciente.git) |
-| 🩺 Historial Médico | Java, Spring Boot | 📂[[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Historial_Medico.git) |
-| 🏥 Previsión | Java, Spring Boot | 📂[[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Prevision.git) |
-| 🧾 Facturación | Java, Spring Boot | 📂[[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Factura.git) |
+| 👤 Paciente | Java, Spring Boot, JPA | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Paciente.git) |
+| 🩺 Historial Médico | Java, Spring Boot | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Historial_Medico.git) |
+| 🏥 Previsión | Java, Spring Boot | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Prevision.git) |
+| 🧾 Facturación | Java, Spring Boot | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Factura.git) |
 
 ---
 
@@ -63,9 +63,9 @@ A continuación se presentan los repositorios que conforman el proyecto.
 
 | Servicio | Tecnologías | Repositorio |
 |---|---|---|
-| 🧪 Exámenes | Java, Spring Boot | [Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Examenes.git) |
-| 📝 Receta Médica | Java, Spring Boot | [Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Receta-Medica.git) |
-| 🏥 Hospitalización | Java, Spring Boot | [Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Hospitalizacion.git) |
+| 🧪 Exámenes | Java, Spring Boot | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Examenes.git) |
+| 📝 Receta Médica | Java, Spring Boot | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Receta-Medica.git) |
+| 🏥 Hospitalización | Java, Spring Boot | 📂[Ver repositorio](https://github.com/MatiasBeas-Microservicios-FullStack/Hospitalizacion.git) |
 
 ---
 
